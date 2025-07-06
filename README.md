@@ -1,4 +1,4 @@
-# win32_api_sockets-asm-
+# win32_api_sockets
 A win 32 api sockets simple http [reverse proxy](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/) implementation in *86 assembler.
 
 # Links
