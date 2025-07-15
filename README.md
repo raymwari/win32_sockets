@@ -1,5 +1,5 @@
 # win32_api_sockets
-A win 32 api sockets simple http [reverse proxy](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/) implementation in *86 assembler.
+A win 32 api sockets simple http [reverse port forwarding proxy](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/) implementation in *86 assembler.
 
 # Links
 https://www.reddit.com/r/asm/comments/1d7e3j2/windows_x64_assembly_api_and_socket/ <br>
@@ -22,4 +22,6 @@ WSAECONNREFUSED
 Check if backend is active:
 `python -m http.server -d C:\your_root_dir_here\winapi_win_example\src\sample 8081`
 
-Proxy host: `localhost:8080`
+## Usage
+Proxy host: `localhost:8080` <br>
+Back end: `localhost:8081`
