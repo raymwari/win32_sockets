@@ -10,7 +10,7 @@ https://stackoverflow.com/questions/58168489/assembly-socket-creation-crash <br>
 https://www.nasm.us <br>
 https://www.godevtool.com <br>
 
-## Error codes (check stderr):
+# Error codes (check stderr):
 https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499- <br>
 
 ## Common codes:
@@ -21,6 +21,6 @@ WSAECONNREFUSED
 Check if backend is active:
 `python -m http.server -d C:\your_root_dir_here\winapi_win_example\src\sample 8081`
 
-## Usage
+# Usage
 Proxy host: `localhost:8192` <br>
 Back end: `localhost:8081`
