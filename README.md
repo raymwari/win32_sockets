@@ -10,7 +10,6 @@ https://stackoverflow.com/questions/58168489/assembly-socket-creation-crash <br>
 https://www.nasm.us <br>
 https://www.godevtool.com <br>
 
-# More:
 ## Error codes (check stderr):
 https://learn.microsoft.com/en-us/windows/win32/debug/system-error-codes--0-499- <br>
 
