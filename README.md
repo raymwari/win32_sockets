@@ -1,7 +1,7 @@
 # win32_api_sockets
 A win 32 api sockets simple http [reverse port forwarding proxy](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/) implementation in *86 assembler.
 
-## Links
+## Links:
 https://www.reddit.com/r/asm/comments/1d7e3j2/windows_x64_assembly_api_and_socket/ <br>
 https://stackoverflow.com/questions/74887725/cant-send-data-to-socket-server-in-assembly-language-x86-64-on-linux <br>
 https://stackoverflow.com/questions/58168489/assembly-socket-creation-crash <br>
