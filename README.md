@@ -21,6 +21,6 @@ WSAECONNREFUSED
 Check if backend is active:
 `python -m http.server -d C:\your_root_dir_here\winapi_win_example\src\sample 8081`
 
-# Usage
+__Usage:__
 Proxy host: `localhost:8192` <br>
 Back end: `localhost:8081`
